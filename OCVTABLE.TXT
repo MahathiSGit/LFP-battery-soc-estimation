@@ -1,0 +1,73 @@
+{
+	"numsocSteps" : 11,
+	"socSteps" :[0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100],
+	"numTempSteps" : 5,
+	"tempSteps":[-100,0,100,250,450],
+	"nominalCellV" : 3200,
+
+	"ocvVal1":{"socStep": 1, "tempStep":1, "chargeOcv": 2826, "dischargeOcv":2708},
+	"ocvVal2":{"socStep": 1, "tempStep":2, "chargeOcv": 2669, "dischargeOcv":2829},
+	"ocvVal3":{"socStep": 1, "tempStep":3, "chargeOcv": 2795, "dischargeOcv":2901},
+	"ocvVal4":{"socStep": 1, "tempStep":4, "chargeOcv": 2936, "dischargeOcv":2923},
+	"ocvVal5":{"socStep": 1, "tempStep":5, "chargeOcv": 2880, "dischargeOcv":2869},
+
+	"ocvVal6":{"socStep": 2, "tempStep":1, "chargeOcv": 3239, "dischargeOcv":3211},
+	"ocvVal7":{"socStep": 2, "tempStep":2, "chargeOcv": 3234, "dischargeOcv":3209},
+	"ocvVal8":{"socStep": 2, "tempStep":3, "chargeOcv": 3228, "dischargeOcv":3207},
+	"ocvVal9":{"socStep": 2, "tempStep":4, "chargeOcv": 3225, "dischargeOcv":3204},
+	"ocvVal10":{"socStep": 2, "tempStep":5, "chargeOcv": 3224, "dischargeOcv":3204},
+
+	"ocvVal11":{"socStep": 3, "tempStep":1, "chargeOcv": 3292, "dischargeOcv":3253},
+	"ocvVal12":{"socStep": 3, "tempStep":2, "chargeOcv": 3288, "dischargeOcv":3270},
+	"ocvVal13":{"socStep": 3, "tempStep":3, "chargeOcv": 3280, "dischargeOcv":3254},
+	"ocvVal14":{"socStep": 3, "tempStep":4, "chargeOcv": 3279, "dischargeOcv":3253},
+	"ocvVal15":{"socStep": 3, "tempStep":5, "chargeOcv": 3278, "dischargeOcv":3246},
+
+	"ocvVal16":{"socStep": 4, "tempStep":1, "chargeOcv": 3309, "dischargeOcv":3275},
+	"ocvVal17":{"socStep": 4, "tempStep":2, "chargeOcv": 3308, "dischargeOcv":3281},
+	"ocvVal18":{"socStep": 4, "tempStep":3, "chargeOcv": 3305, "dischargeOcv":3286},
+	"ocvVal19":{"socStep": 4, "tempStep":4, "chargeOcv": 3305, "dischargeOcv":3288},
+	"ocvVal20":{"socStep": 4, "tempStep":5, "chargeOcv": 3306, "dischargeOcv":3279},
+
+	"ocvVal21":{"socStep": 5, "tempStep":1, "chargeOcv": 3308, "dischargeOcv":3278},
+	"ocvVal22":{"socStep": 5, "tempStep":2, "chargeOcv": 3307, "dischargeOcv":3282},
+	"ocvVal23":{"socStep": 5, "tempStep":3, "chargeOcv": 3305, "dischargeOcv":3287},
+	"ocvVal24":{"socStep": 5, "tempStep":4, "chargeOcv": 3307, "dischargeOcv":3290},
+	"ocvVal25":{"socStep": 5, "tempStep":5, "chargeOcv": 3308, "dischargeOcv":3296},
+
+	"ocvVal26":{"socStep": 6, "tempStep":1, "chargeOcv": 3309, "dischargeOcv":3280},
+	"ocvVal27":{"socStep": 6, "tempStep":2, "chargeOcv": 3309, "dischargeOcv":3283},
+	"ocvVal28":{"socStep": 6, "tempStep":3, "chargeOcv": 3308, "dischargeOcv":3289},
+	"ocvVal29":{"socStep": 6, "tempStep":4, "chargeOcv": 3309, "dischargeOcv":3293},
+	"ocvVal30":{"socStep": 6, "tempStep":5, "chargeOcv": 3311, "dischargeOcv":3298},
+
+	"ocvVal31":{"socStep": 7, "tempStep":1, "chargeOcv": 3331, "dischargeOcv":3291},
+	"ocvVal32":{"socStep": 7, "tempStep":2, "chargeOcv": 3319, "dischargeOcv":3299},
+	"ocvVal33":{"socStep": 7, "tempStep":3, "chargeOcv": 3316, "dischargeOcv":3308},
+	"ocvVal34":{"socStep": 7, "tempStep":4, "chargeOcv": 3321, "dischargeOcv":3321},
+	"ocvVal35":{"socStep": 7, "tempStep":5, "chargeOcv": 3327, "dischargeOcv":3309},
+
+	"ocvVal36":{"socStep": 8, "tempStep":1, "chargeOcv": 3333, "dischargeOcv":3315},
+	"ocvVal37":{"socStep": 8, "tempStep":2, "chargeOcv": 3321, "dischargeOcv":3322},
+	"ocvVal38":{"socStep": 8, "tempStep":3, "chargeOcv": 3318, "dischargeOcv":3328},
+	"ocvVal39":{"socStep": 8, "tempStep":4, "chargeOcv": 3341, "dischargeOcv":3330},
+	"ocvVal40":{"socStep": 8, "tempStep":5, "chargeOcv": 3339, "dischargeOcv":3332},
+
+	"ocvVal41":{"socStep": 9, "tempStep":1, "chargeOcv": 3335, "dischargeOcv":3316},
+	"ocvVal42":{"socStep": 9, "tempStep":2, "chargeOcv": 3323, "dischargeOcv":3321},
+	"ocvVal43":{"socStep": 9, "tempStep":3, "chargeOcv": 3320, "dischargeOcv":3327},
+	"ocvVal44":{"socStep": 9, "tempStep":4, "chargeOcv": 3340, "dischargeOcv":3329},
+	"ocvVal45":{"socStep": 9, "tempStep":5, "chargeOcv": 3339, "dischargeOcv":3332},
+
+	"ocvVal46":{"socStep": 10, "tempStep":1, "chargeOcv": 3333, "dischargeOcv":3316},
+	"ocvVal47":{"socStep": 10, "tempStep":2, "chargeOcv": 3335, "dischargeOcv":3321},
+	"ocvVal48":{"socStep": 10, "tempStep":3, "chargeOcv": 3336, "dischargeOcv":3327},
+	"ocvVal49":{"socStep": 10, "tempStep":4, "chargeOcv": 3339, "dischargeOcv":3329},
+	"ocvVal50":{"socStep": 10, "tempStep":5, "chargeOcv": 3339, "dischargeOcv":3333},
+
+	"ocvVal51":{"socStep": 11, "tempStep":1, "chargeOcv": 3432, "dischargeOcv":3359},
+	"ocvVal52":{"socStep": 11, "tempStep":2, "chargeOcv": 3432, "dischargeOcv":3415},
+	"ocvVal53":{"socStep": 11, "tempStep":3, "chargeOcv": 3422, "dischargeOcv":3396},
+	"ocvVal54":{"socStep": 11, "tempStep":4, "chargeOcv": 3386, "dischargeOcv":3382},
+	"ocvVal55":{"socStep": 11, "tempStep":5, "chargeOcv": 3504, "dischargeOcv":3337}
+}
