@@ -1,0 +1,11 @@
+name: battery-soc
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas>=1.5
+  - numpy>=1.23
+  - matplotlib>=3.6
+  - pytorch>=2.0
